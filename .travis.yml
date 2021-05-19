@@ -1,0 +1,21 @@
+language: ruby
+rvm:
+- 2.7.2
+cache: bundler
+before_script:
+- ". $HOME/.nvm/nvm.sh"
+- nvm install $TRAVIS_NODE_VERSION
+- nvm use $TRAVIS_NODE_VERSION
+- npm install -g gulp
+- npm install
+script: gulp prod
+deploy:
+  provider: pages
+  github-token: "$GH_TOKEN"
+  on:
+    branch: main
+  local_dir: _site
+  edge: true
+env:
+  matrix:
+    secure: qpXPz8oL6Pzir84fqjYE2klyGV9/nny1asuw7+hOrqGkS6qKDpud468dPG0jAbzAZAyr2C9+It4ckOtsBi8njJDVYoXBPPNXZ2Z6lIGqfb9W5pque93xsKL6yf5Dv5I876V+/9/frta6XK/izAt27y7SbpHJGKy3YK2YLVhorAtWpwdyPLJEmn0qutyX7f/kgvSYlev+/JnadMmGMAsGIvOEMNPGHW8FSRmRVNRUsY8GNP/oPXBjJVVfzDmbIWra6buQWWZY9fDCLKP8+CGy5+EwArvDJYE2TjQCLdGajPgBTD3w16aBP7M0ONqNtNJE//J7qCEgFfA2JM6A6csXFRdBMI2BcjxEueSL0v42HHcmA2FExT6l7/feAdsPUJYpnRn7Ik2HwSI/goAQH8wJX4aE0kHLWBXs+soW1IwfM7lO93/h0/QMPnNugD1ioF2/jIx/2PWBs1fxDBrXmcjT6CFANWTU9HNDBYJmF0/A/815qb7Tlug4u6BjWle841dN7xMRvMfJfFrTsLzdT0CeVOiCQriqyihyr9lW5/v9Za14nmaNvzx0UP7Y8JD2P7n9og8oUHSi6PKdM0ToxGbekTNbeJwhzk9AT3frc0txnFsXckhQMFhoFLFW7dGGOLqvPYRTzF3r6WvzwavRqKnlYZHY8sr3dHfnH7elFSL6fwg=

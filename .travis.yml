@@ -24,3 +24,5 @@ deploy:
   on:
     branch: main
   local_dir: _site
+  edge: true
+  verbose: true

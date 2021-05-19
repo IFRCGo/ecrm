@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="container page">
+  <div class="row pt-5">
+    <div class="col text-center">
+      <h1 class="display-4">{{ page.slug }}</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      {{content}}
+    </div>
+  </div>
+
+
+
+<br>
+
+{% assign thiscollection = site.collections | where: "label", page.collection | first %}
+{% assign collectionlabel = thiscollection.label %}
+
+{% case collectionlabel %}
+  {% when 'disaster' %}
+     {% assign linkedcollection = site.collections | where: 'label', 'disease' | first %}
+  {% else %}
+{% endcase %}
+{% assign linkarray = page[linkedcollection.label] %}
+
+{% if linkarray.size > 0 %}
+
+<div class="row">
+  <div class="col">
+    <h3>{{ site.data[page.lang].disease-tools }} {{ page.slug | downcase }}</h3>
+    <!-- links will appear in order listed in yaml front matter  -->
+    {% for number in linkarray %}
+      {% for linked in linkedcollection.docs %}
+        {% if linked.lang == page.lang and linked.identifier == number %}
+          <div>
+            <a title="{{ linked.title }}" class="keep-params" href="{{ linked.url | relative_url }}">
+              {{ linked.identifier }} - {{ linked.slug }}
+            </a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+<br>
+
+{% endif %}
+
+</div> <!-- /container page -->
+
+
+<script src="{{ '/assets/js/content-filter.js' | relative_url }}"></script>
+
+
+{% include footer.html %}
+

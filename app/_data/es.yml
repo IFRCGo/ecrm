@@ -1,0 +1,33 @@
+############
+## COMMON ##
+############
+
+meta:
+  title: "ECRM "
+  description: "Epidemic Control for Response Managers"
+
+home: "/"
+learn-more: "Learn more"
+go-to: "Go to"
+coming-soon: "details coming soon"
+
+disease-tools: "Disease tools that may be relevant for "
+
+landing:
+  title:  "Epidemic Control for Response Managers (ECRM)"
+  intro1: "Epidemics are a constant threat to the well-being of communities everywhere, and more especially so in societies where resources are scarce. Managing epidemics, or preferably preventing them, is a priority for the International Red Cross and Red Crescent Movement. The role of communities in preventing, detecting and responding to local health threats is critical in improving the lives of millions across the world. With 191 National Societies and 17 million volunteers, the IFRC Network is uniquely placed to prevent and respond to epidemics at the community level."
+  intro2: "Select a profile below to continue. We will filter the pages to provide you only with the most relevant information."
+  disasters: "Disasters"
+  diseases: "Diseases"
+
+profile1:
+  title:        "Health emergency preparedness and response staff"
+  description:  "Has clinical health knowledge."
+profile2: 
+  title:        "Community health programme staff"
+  description:  "Has no clinical knowledge, working in a non-emergency context."
+profile3:
+  title:        "Emergency preparedness and response staff"
+  description:  "Has no clinical health knowledge."
+
+continue: "Continue with this profile"

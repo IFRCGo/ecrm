@@ -1,0 +1,74 @@
+$theme-red:       #F4333E;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px; /* Margin bottom by footer height */
+  padding-bottom: 60px; /* Padding bottom by footer height */
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+  
+  a:link {
+    color: $secondary;
+  }
+  a:visited {
+    color: $secondary;
+  }
+  a:hover {
+    color: $theme-red;
+  }
+  a:active {
+    color: $theme-red;
+  }
+}
+
+.transparent-btn-red {
+  background-color: rgba(244,51,62,0.75);
+  color: #000;
+}
+.transparent-btn-red:hover {
+  background-color: rgba(244,51,62,0.9);
+  color: #000;
+}
+
+.container.page {
+  table {
+    font-family: verdana, arial, sans-serif;
+    font-size: 11px;
+    color: #333333;
+    border-width: 1px;
+    border-color: #838383;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+  }
+  table th {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #838383;
+    background-color: #D19595;
+  }
+  table tr:hover td {
+    background-color: #ededed;
+  }
+  table td {
+    border-width: 1px;
+    padding: 8px;
+    border-style: solid;
+    border-color: #838383;
+    background-color: #ffffff;
+  }
+  
+}
+
+#profiles, #content {
+  display: none;
+}

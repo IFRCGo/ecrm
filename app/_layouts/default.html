@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="{{ '/assets/img/ifrc-digital-32x32.png' | relative_url }}" />
+  
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@ifrc" />
+  <meta property="og:title" content="{{ site.data[page.lang].meta.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="{{ site.data[page.lang].meta.description }}" />
+  
+  <link rel="stylesheet" href="{{ '/assets/styles/main.css' | relative_url }}">
+  
+  <title>{{ site.data[page.lang].meta.title }}</title>
+
+</head>
+  <body>
+    
+     
+    {{ content }}
+
+
+
+
+    <script src="{{ '/assets/js/vendor.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/link-update.js' | relative_url }}"></script>
+
+  </body>
+</html>

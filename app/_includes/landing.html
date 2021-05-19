@@ -1,0 +1,125 @@
+
+<br>
+
+<div id="profiles" class="container">
+  <div class="row">
+    <div class="col">
+      <h1>{{ site.data[page.lang].landing.title }}</h1>
+      <p>{{ site.data[page.lang].landing.intro1 }}</p>
+      <p>{{ site.data[page.lang].landing.intro2 }}</p>
+    </div>
+  </div>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <img src="{{ '/assets/img/profile1.jpg' | relative_url }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ site.data[page.lang].profile1.title }}</h5>
+          <p class="card-text">{{ site.data[page.lang].profile1.description }}</p>
+        </div>
+        <div class="card-footer bg-transparent border-top-0">
+          <a href="{{ page.url }}?profile=profile1" class="btn btn-outline-danger w-100">{{ site.data[page.lang].continue }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <img src="{{ '/assets/img/profile2.jpg' | relative_url }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ site.data[page.lang].profile2.title }}</h5>
+          <p class="card-text">{{ site.data[page.lang].profile2.description }}</p>
+        </div>
+        <div class="card-footer bg-transparent border-top-0">
+          <a href="{{ page.url }}?profile=profile2" class="btn btn-outline-danger w-100">{{ site.data[page.lang].continue }}</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <img src="{{ '/assets/img/profile3.jpg' | relative_url }}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">{{ site.data[page.lang].profile3.title }}</h5>
+          <p class="card-text">{{ site.data[page.lang].profile3.description }}</p>
+        </div>
+        <div class="card-footer bg-transparent border-top-0">
+          <a href="{{ page.url }}?profile=profile3" class="btn btn-outline-danger w-100">{{ site.data[page.lang].continue }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+
+
+
+<div id="content" class="container">
+  <!-- <div class="row">
+    <div class="col">
+      <a type="button" href="#disasters" class="btn btn-secondary btn-lg btn-block"> disasters </a>
+    </div>
+    <div class="col">
+      <a type="button" href="#diseases" class="btn btn-secondary btn-lg btn-block"> diseases </a>
+    </div>
+  </div> -->
+  
+<div class="row">
+  <div class="col">
+    <h2>{{ site.data[page.lang].landing.disasters }}</h2>  
+  </div>
+</div>
+<div id="disasters" class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4" >
+{% assign disasters = site.collections | where: "label", "disaster" | first %}
+{% for disaster in disasters.docs %}
+  {% if disaster.lang == page.lang %}
+  
+  <div class="col">
+    <div class="card bg-dark text-white mt-3">
+      <img src="{{ '/assets/img/disasters/' | append: disaster.img | relative_url }}" class="card-img" alt="...">
+      <div class="card-img-overlay align-middle"">
+        <a href="{{ disaster.url | relative_url }}" class="keep-params btn btn-outline-danger transparent-btn-red w-100 align-middle"">{{ disaster.slug }}</a>
+      </div>
+    </div>
+  </div>
+
+  {% endif %}
+{% endfor %}  
+</div>
+
+<div class="row mt-5">
+  <div class="col">
+    <h2>{{ site.data[page.lang].landing.diseases }}</h2>  
+  </div>
+</div>
+  
+<div id="diseases" class="row">
+  {% assign diseases = site.collections | where: "label", "disease" | first %}
+  {% for disease in diseases.docs %}
+    {% if disease.lang == page.lang %}
+    
+    <div class="col">
+      <div class="card bg-dark text-white mt-3">
+        <img src="{{ '/assets/img/diseases/' | append: disease.img | relative_url }}" class="card-img" alt="...">
+        <div class="card-img-overlay align-middle"">
+          <a href="{{ disease.url | relative_url }}" class="keep-params btn btn-outline-danger transparent-btn-red w-100 align-middle"">{{ disease.slug }}</a>
+        </div>
+      </div>
+    </div>
+
+    {% endif %}
+  {% endfor %}    
+</div>
+
+</div>
+
+<script>
+window.onload = function(){
+  var params = new URLSearchParams(location.search);
+  var profile = params.get('profile');
+  if(params.has('profile')){
+    $("#content").show();
+  } else {
+    $("#profiles").show();  
+  }
+  
+
+}
+</script>

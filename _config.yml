@@ -1,0 +1,19 @@
+source: app
+url: #place url
+baseurl: #place folder name if site is served in subfolder
+
+markdown: kramdown
+permalink:  pretty
+exclude:
+  - assets/styles
+
+default_language: "en"
+languages: ["en"]
+language_names:
+  en: "English"
+
+collections:
+  disease: 
+    output: true
+  disaster:
+    output: true

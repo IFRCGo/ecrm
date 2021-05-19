@@ -18,5 +18,11 @@ before_script:
 - npm install -g gulp
 - npm install
 script: gulp prod
-after_success:
-  - "./.build_scripts/deploy.sh"
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: false
+  on:
+    branch: main
+  local_dir: _site

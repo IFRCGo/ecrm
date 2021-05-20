@@ -7,8 +7,6 @@ env:
   - GH_REF=github.com/IFRCGo/ecrm
   - DEPLOY_BRANCH=main
   - PAGES_BRANCH=gh-pages
-before_install:
-  - chmod +x ./.build_scripts/deploy.sh
 before_script:
 - ". $HOME/.nvm/nvm.sh"
 - nvm install $TRAVIS_NODE_VERSION

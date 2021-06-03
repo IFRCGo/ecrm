@@ -179,14 +179,14 @@ The indicators and targets below can be adapted to specific contexts and should 
 
 Indicator | Target
 --- | ---
-National preparedness plans developed | 	Plan available 
-Diarrhoea cases in total population | 	# 
-Diarrhoea cases in children < 5 years | 	#
-Deaths from diarrhoea per day/week in total population | 	#
-Deaths from diarrhoea per day/week in children < 5 years |	#
-Case-fatality rate | 	< 1%
-Attack rate | 	% 
-Bed occupancy in diarrhoea treatment units/centres | 	80 - 100%
+Vaccine coverage (population) | > 80% 
+Cases per day/week | # 
+Deaths from yellow fever per day/week | # 
+Population immunity | 60 – 80% 
+Attack rate (population) | % 
+Case fatality rate | % 
+Vector density (Examples: pupal survey, larval indices, eggs per ovitrap per week, or female adults per sticky trap per week) | Locally determined 
+Number of new districts (or clusters) affected each week | #
 
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
@@ -197,9 +197,9 @@ Indicator | Target
 --- | ---
 Number of volunteers trained | # 
 Number of suspected cases detected by volunteers and referred for treatment | # 
-Number of people > 9 months vaccinated (vaccination campaign managed by national health authorities) |  # 
+Number of people > 9 months vaccinated (vaccination campaign managed by national health authorities) | # 
 Social and behaviour change communication (SBCC) plan developed | Plan available 
-Functional feedback mechanism in place |	# and type 
+Functional feedback mechanism in place | # and type 
 Households visited by volunteers (door-to-door visits) | # or % 
 People who attended group session held by volunteers | # 
 Radio spots/SMS messages/television spots broadcast | # 

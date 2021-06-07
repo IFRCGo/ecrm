@@ -18,9 +18,9 @@ Severe Dengue affects most countries in Asia and Latin America. Globally there i
 
 ## Case definition	
 
-Probable dengue: live in/travel to Dengue endemic area AND fever AND two of the following criteria: nausea, vomiting, rash, ache and pains, Tourniquet test positive, leukopenia, any warning sign (abdominal pain or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleed, lethargy, restlessness, liver enlargement >2 cm; laboratory: increase in haematocrit (HCT) concurrent with rapid decrease in platelet count).
-Laboratory-confirmed case.
-Criteria for severe Dengue:  severe plasma leakage leading to: dengue shock syndrome (DSS), fluid accumulation with respiratory distress; severe bleeding as evaluated by clinician; severe organ involvement (liver: AST or ALT >=1000; central nervous system (CNS): impaired consciousness; heart and other organs).
+**Probable dengue:** live in/travel to Dengue endemic area AND fever AND two of the following criteria: nausea, vomiting, rash, ache and pains, Tourniquet test positive, leukopenia, any warning sign (abdominal pain or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleed, lethargy, restlessness, liver enlargement >2 cm; laboratory: increase in haematocrit (HCT) concurrent with rapid decrease in platelet count).
+**Laboratory-confirmed case.**
+**Criteria for severe Dengue:**  severe plasma leakage leading to: dengue shock syndrome (DSS), fluid accumulation with respiratory distress; severe bleeding as evaluated by clinician; severe organ involvement (liver: AST or ALT >=1000; central nervous system (CNS): impaired consciousness; heart and other organs).
 
 ## Alert/epidemic threshold
 
@@ -107,11 +107,8 @@ Evidence of effectiveness | Activity
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | Community mobilisation was consistently effective with reducing vector (measured by vector indices) 
 <img width="40px" src="{{ '/assets/img/1-low.png' | relative_url }}"> Low | Outdoor space spraying 
 <img width="40px" src="{{ '/assets/img/1-low.png' | relative_url }}"> Low | Indoor residual spraying 
-
 <img width="40px" src="{{ '/assets/img/0-no.png' | relative_url }}"> No evidence | Mosquito repellents 
-
 <img width="40px" src="{{ '/assets/img/2-medium.png' | relative_url }}"> Medium | Bed nets (*for those sleeping during daytime e.g infants/small children)
-
 <img width="40px" src="{{ '/assets/img/0-no.png' | relative_url }}"> No evidence | Mosquito traps
 <img width="40px" src="{{ '/assets/img/0-no.png' | relative_url }}"> No evidence | Insecticide treated curtains 
 <img width="40px" src="{{ '/assets/img/1-low.png' | relative_url }}"> Low | Insecticide aerosols (’knockdown’ sprays) 

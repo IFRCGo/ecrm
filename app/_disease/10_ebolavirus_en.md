@@ -2,7 +2,7 @@
 # DISEASE #
 # ======= #
 layout: page
-identifier: 7
+identifier: 10
 lang: en
 
 img: disease-example-2.jpg

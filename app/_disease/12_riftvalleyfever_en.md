@@ -2,7 +2,7 @@
 # DISEASE #
 # ======= #
 layout: page
-identifier: 7
+identifier: 12
 lang: en
 
 img: disease-example-2.jpg
@@ -27,10 +27,10 @@ Single case.
 
 ## Risk assessment
 
-**Event description:** : : type of disaster, characteristics of displacement
-**Host:** : malnutrition rates, community practices, cultural practices
+**Event description:** type of disaster, characteristics of displacement
+**Host:**  malnutrition rates, community practices, cultural practices
 **Agent:**  endemicity, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality, seasonality
-**Environment:** :  presents of vectors and reservoirs, shelter, availability and access to health and social care.
+**Environment:**  presents of vectors and reservoirs, shelter, availability and access to health and social care.
 
 ## Attack rate
 -	Below 1% of population develops disease. Up to 13% of residents in heavily affected areas show serological evidence 
@@ -87,11 +87,11 @@ No human-to-human transmission of RVF has been demonstrated so far.
 
 Natural infection is likely to confer long-term protection against reinfection.
 
-# Which interventions are most effective for prevention and control of Marburg? 
+# Which interventions are most effective for prevention and control of Rift Valley Fever? 
 
 ## PREVENTION AND CONTROL
 
-Evidence of effectiveness | Activity
+Recommended interventions | Activity
 --- | ---
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | larvicide and/or fumigation interventions (to control larval mosquitos) 
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | Fogging or ultra-low volume (ULV) spraying (to control adult mosquito population) 

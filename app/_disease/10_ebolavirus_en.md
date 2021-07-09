@@ -36,8 +36,11 @@ Single case.
 ## Risk assessment
 
 **Event description:** : type of disaster, characteristics of displacement
+
 **Host:** community practices, cultural practices
+
 **Agent:** endemicity, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality, seasonality
+
 **Environment:** : shelter, availability and access to health and social care
 
 ## Attack rate

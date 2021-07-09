@@ -40,8 +40,11 @@ For acute jaundice syndrome in emergency settings, alert thresholds of “five o
 ## Risk assessment
 
 **Event description:** type of disaster, characteristics of displacement
+
 **Host:** : immunisation coverage, community practices, cultural practices
+
 **Agent:**  endemicity, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality and seasonality
+
 **Environment:** shelter, availability of safe food and water, availability and access to health and social care.
 
 ## Attack rate

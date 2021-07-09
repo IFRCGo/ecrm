@@ -33,8 +33,11 @@ Single case.
 ## Risk assessment
 
 **Event description:** : contact with fruit bats colonies
+
 **Host:** community practices, cultural practices
+
 **Agent:** endemicity, recent epidemics or sporadic cases, ongoing prevention and control interventions, disease incidence, mortality, seasonality
+
 **Environment:** : presence of fruit bats, availability and access to health and social care
 
 ## Attack rate

@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Epidemic of Unknown origin
-permalink: "disease/leptospirosis/"
+permalink: "disease/unknown/"
 ---
 
 # FACT SHEET

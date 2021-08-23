@@ -4,7 +4,7 @@
 layout: page
 identifier: 7
 lang: en
-disease: [2,3]
+disease: [1,7,9,12,16,6,24,5,22,3]
 img: complex-emergency.jpeg
 slug: Complex emergency / Population Movement
 permalink: "disaster/complex-emergency/"

@@ -4,7 +4,7 @@
 layout: page
 identifier: 2
 lang: en
-disease: [1,9,12,16,24]
+disease: [1,9,12,16,24,6,5,22,3]
 img: earthquake.jpeg
 slug: Earthquake
 permalink: "disaster/earthquake/"

@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Zika Virus infection
-permalink: "disease/zikavirusinfection/"
+permalink: "disease/zika/"
 ---
 
 # FACT SHEET
@@ -27,9 +27,15 @@ Case definitions can change by region, depending on other diseases present and h
 
 **Confirmed case:** A person with laboratory confirmation of recent Zika virus infection: presence of Zika virus RNA or antigen in serum or other samples (e.g. saliva, tissues, urine, whole blood) OR IgM antibody against Zika virus positive and PRNT90 for Zika virus with titre ≥20 and Zika virus PRNT90 titre ratio ≥ 4 compared to other flaviviruses AND exclusion of other flaviviruses
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
+
 At the local level a single Zika case may trigger action. At state or provincial level, the increase in reported cases above an established baseline for the same week or month in preceding years, or increasing vector density, may indicate impending epidemic activity. At national level, the detection of changes in virus serotype, subtype or genotype distribution, clinical severity or seropositivity rate, or the introduction of a Zika vector into a new ecological niche, are signals that should be investigated without delay
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -41,43 +47,69 @@ At the local level a single Zika case may trigger action. At state or provincial
 
 **Environment:** presence of vectors, availability and access to health and social care.
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	Infection rate: 73%
 -	Symptomatic attack rate among infected: 18%.
 
+</div> 
+<!-- end -->
+
 ## Vulnerability
+
 -	A pregnant woman can pass Zika virus to her foetus during pregnancy. Zika is a cause of microcephaly and other severe foetal 
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent
+
 Zika virus
 
 ## Reservoir/Host
 
 Non-human and human primates are likely the main reservoirs of the virus.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	Mosquito bite (Aedes aegypti and Ae. albopictus)
 -	The mosquitoes usually bite during the daytime (peak biting periods are early in the morning and in the evening at dusk).
 -	During pregnancy from the pregnant women to her foetus
 -	Unprotected sex.
 -	Unsafe blood transfusion (very likely but not confirmed).
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Incubation period
+
 3-14 days.
 
 ## Period of infectiousness
+
 Zika virus is present in blood from a few days to one week, but the virus remains in semen longer.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	People with Zika virus disease can have symptoms including mild fever, skin rash, red eyes, muscle and joint pain, malaise or headache. These symptoms normally last for two to seven days
 -	Many people infected with Zika virus won’t have symptoms or will only have mild symptoms. Estimates suggest only one in five people show symptoms
 -	Zika virus infection during pregnancy is a cause of congenital brain abnormalities, including microcephaly
 -	Zika virus is a trigger of Guillain-Barré syndrome.  It is a rare condition in which a person’s immune system attacks the peripheral nerves. People of all ages can be affected, but it is more common in adults and in males. Most people recover fully from even the most severe cases of Guillain-Barré syndrome. Severe cases of Guillain-Barré syndrome are rare, which result in near-total paralysis. People with Guillain-Barré syndrome should be treated and monitored; some may need intensive care. Treatment includes supportive care and some immunological therapies.
 
-
 ## Other diseases with similar clinical signs and symptoms
+
 Dengue, Chikungunya, West Nile virus infection, Yellow fever, Malaria and other infections.
 
 ## Diagnosis
@@ -87,15 +119,18 @@ Dengue, Chikungunya, West Nile virus infection, Yellow fever, Malaria and other 
 
 
 ## Clinical management (vaccine or treatment)
+
 -	Zika virus disease is usually mild and requires no specific treatment. 
 -	People sick with Zika virus should get plenty of rest, drink enough fluids, and treat pain and fever with common medicines. If symptoms worsen, they should seek medical care and advice. 
 -	In areas with Dengue and Zika occurring in the same areas, all suspected cases, especially pregnant women, should be referred to the health facility
 -	There is currently no vaccine available.
 
-
 ## Immunity
+
 Once a person has been infected, they are likely to be protected from future infections.
 
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Zika? 
 
@@ -120,6 +155,7 @@ Evidence of effectiveness | Activity
 <img width="40px" src="{{ '/assets/img/0-no.png' | relative_url }}"> No evidence | Mosquito coils 
 
 # Indicators and targets 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
@@ -137,7 +173,6 @@ Zika-associated cases of Guillain-Barré syndrome | #
 Microcephaly cases in live births  | #
 Attack rate (population) | 
 
-
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
@@ -152,7 +187,7 @@ Community clean-up campaigns conducted to eliminate mosquito breeding sites |	#
 Households in target area who have covered water containers in the home [observation] |	# or % 
 Larvicide and/or fumigation interventions conducted in at-risk communities |	# 
 Households or Health clinics who received, shovels, equipment etc. |	# or % 
-Social and behaviour change communication (SBCC) plan developed 	Plan available 
+Social and behaviour change communication (SBCC) plan developed |	Plan available 
 Functional feedback mechanism in place | 	# and type 
 Households visited by volunteers (door-to-door visits) |	# or % 
 Pregnant or new mothers (families) who have received PSS support |	#

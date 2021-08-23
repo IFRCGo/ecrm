@@ -32,8 +32,14 @@ Monkeypox is a rare disease first discovered in monkeys and in humans in 1970 in
 
 **Confirmed case:** meets one of the laboratory criteria.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Alert/epidemic threshold
 Single case.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -45,6 +51,9 @@ Single case.
 
 **Environment:** presence of natural reservoirs, availability and access to health and social care.
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
+
 
 ## Attack rate
 -	3-28% in recent outbreaks among close contacts.
@@ -54,6 +63,8 @@ Single case.
 -	People in close contact with animals (including the animal blood and bodily fluids) 
 -	Infection is more severe in younger people.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -63,11 +74,17 @@ Monkeypox virus
 
 Many animals (rope squirrels, tree squirrels, Gambian rats, striped mice, dormice, prairie dogs and primates), humans.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
 - 	Direct contact with the blood, bodily fluids, or cutaneous or mucosal lesions of infected animals (monkey, prairie dogs, rats, squirrels, and others), during bite or scratch, bush meat preparation, direct contact with body fluids or lesion material, or indirect contact with lesion material, such as through contaminated bedding.
 -	Eating inadequately cooked meat of infected animals is a possible risk factor.
 -	Close contact with infected respiratory tract secretions, skin lesions of an infected person or objects recently contaminated by patient fluids or lesion materials.
 -	Via droplet respiratory particles usually requiring prolonged face-to-face contact.
+
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -77,13 +94,17 @@ Many animals (rope squirrels, tree squirrels, Gambian rats, striped mice, dormic
 
 First week of rash.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Signs and symptoms	
 
 -	The invasion period (0-5 days) is characterized by fever, intense headache, lymphadenopathy (swelling of the lymph node), back pain, myalgia (muscle ache) and an intense asthenia (lack of energy).
 -	The skin eruption period (within one to three days after the appearance of fever) where the various stages of the rash appears, often beginning on the face and then spreading elsewhere on the body. The face (in 95% of cases), and palms of the hands and soles of the feet (75%) are most affected. Evolution of the rash from maculopapules (lesions with a flat bases) to vesicles (small fluid-filled blisters), pustules, followed by crusts occurs in approximately ten days which may last up to three weeks.
 -	Some patients develop severe lymphadenopathy (swollen lymph nodes) before the appearance of the rash, which is a distinctive feature of Monkeypox compared to other similar diseases.
-
 
 ## Other diseases with similar clinical signs and symptoms
 
@@ -101,11 +122,12 @@ Smallpox, Chickenpox, Measles, bacterial skin infections, Scabies, Syphilis, and
 -	There are no specific treatments or vaccines available for Monkeypox infection.
 -	Vaccination against Smallpox has been proven to be 85% effective in preventing Monkeypox in the past however the vaccine is no longer available to the public following global Smallpox eradication. Nevertheless, prior Smallpox vaccination will likely result in a milder disease course.
 
-  
 ## Immunity	
 
 -	No information available.
 
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Monkeypox?  
 
@@ -127,6 +149,7 @@ Evidence of effectiveness | Activity
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -158,8 +181,6 @@ People who attended group sessions held by volunteers |	#
 Radio spots/SMS messages/television spots broadcast |	# 
 Respondents that correctly recall messages on symptoms/transmission/prevention/case definition for referral |	% 
 Knowledge of target population on recommended prevention and control behaviours. |	% increase
-
-
 
 # Impact on other sectors/program areas 
 

@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Hantavirus Pulmonary Syndrome (HPS)
-permalink: "disease/hantaviruspulmonarysyndrome/"
+permalink: "disease/hantavirus-pulmonary-syndrome/"
 ---
 
 # FACT SHEET
@@ -24,13 +24,19 @@ Numerous individual cases and small clusters of Hantavirus cases have been repor
 
 **Laboratory criteria for diagnosis:** detection of hantavirus-specific immunoglobulin M or rising titres of hantavirus-specific immunoglobulin G OR detection of hantavirus-specific ribonucleic acid sequence by polymerase chain reaction in clinical specimens.
 Detection of hantavirus antigen by immunohistochemistry.
+
 **Case Classification**
 
 **Confirmed:** A clinically compatible case that is laboratory confirmed.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 Single case.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -41,14 +47,21 @@ Single case.
 **Agent:** endemicity, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality and seasonality
 Environment: presence of reservoirs, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
 -	For Andes virus: 2.5%.
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
 Anyone who comes into contact with rodents that carry Hantavirus is at risk of HPS.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -58,12 +71,18 @@ Hantaviruses (i.e. New World Hantaviruses, Sin nombre, New York, Back Creek and 
 
 Rodents, specific for each Hantavirus (deer mouse for Sin nombre, white-footed mouse for New York, cotton rat for Black Creek, rice rat for Bayou and Andes Hantaviruses); humans (for Hantaviruses present in South America only).
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
+
 -	Breathing in the virus. This may happen when rodent urine and droppings containing hantavirus are stirred up into the air.
 -	Touching eyes, nose or mouth after touching rodent droppings, urine, or nesting materials that contain the virus.
 -	A bite from an infected rodent
 -	Close contact with individuals with HPS (for Andes virus only)
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -73,12 +92,16 @@ Rodents, specific for each Hantavirus (deer mouse for Sin nombre, white-footed m
 
 Andes virus (ANDV)  is the only Hantavirus for which person-to-person transmission has been proven. Person-to-person transmission of ANDV occurs mainly in family clusters or, less commonly, after activities in which close contact with an infected case-patient has occurred. 
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms	
 
 -	Early symptoms include fatigue, fever and muscle aches, especially in the large muscle groups (thighs, hips, back, and sometimes shoulders).
 -	Four to ten days after the initial phase appear coughing and shortness of breath, with the sensation of, as one survivor put it, a “…tight band around my chest and a pillow over my face” as the lungs fill with fluid. PHS is fatal in 38% patients.
-
 
 ## Other diseases with similar clinical signs and symptoms
 
@@ -89,16 +112,17 @@ Acute respiratory distress syndrome, Pneumonia, Plagues, tularaemia, Q fever, An
 -	A positive serological test result
 -	Evidence of viral antigen in tissue by immunohistochemistry, or the presence of amplifiable viral RNA sequences in blood or tissue, with compatible history of HPS.
 
-
 ## Clinical management (vaccine or treatment)
 
 -	There is no specific treatment, cure, or vaccine for hantavirus infection. However, if infected individuals are recognized early and receive medical care in an intensive care unit, they may do better.
 -	 In intensive care, patients are intubated and given oxygen therapy to help them through the period of severe respiratory distress.
 
-
 ## Immunity	
 
 Immune response towards Hantaviruses is long-lasting.
+
+</div> 
+<!-- end -->
 
 ## Prevention
 
@@ -107,7 +131,6 @@ Immune response towards Hantaviruses is long-lasting.
 -	Safely clean up after rodents
 -	Early identification and referral of possible cases for treatment and medical surveillance of close contacts
 -	Health promotion.
-
 
 # Which interventions are most effective for prevention and control of Hantavirus? 
 
@@ -129,6 +152,7 @@ Evidence of effectiveness | Activity
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -163,8 +187,6 @@ People who attended group sessions held by volunteers |	#
 Radio spots/SMS messages/television spots broadcast |	# 
 Respondents that correctly recall messages on symptoms/transmission/prevention/case definition for referral |	% 
 Knowledge of target population on recommended prevention and control behaviours. | % increase
-
-
 
 # Impact on other sectors/program areas 
 

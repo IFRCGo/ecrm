@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Typhoid Fever
-permalink: "disease/typhoidfever/"
+permalink: "disease/typhoid/"
 ---
 
 # FACT SHEET
@@ -19,12 +19,19 @@ Approximately 21 million cases and 222 000 typhoid-related deaths occur annually
 ## Case definition	
 
 **Probable case:** a patient with persistent fever (38 °C or more) lasting 3 or more days, with a positive sero-diagnosis or antigen detection test but no S. typhi isolation OR a clinical compatible case that is epidemiologically linked to a confirmed case in an outbreak.
+
 **Confirmed case:** a patient with persistent fever (38 °C or more) lasting three or more days, with laboratory-confirmed S. typhi organisms (blood, bone marrow, bowel fluid) OR a clinical compatible case that is laboratory confirmed.
+
 **Chronic carrier:** an individual excreting S. typhi in the stool or urine for longer than one year after the onset of acute typhoid fever OR short-term carriers also exist, but their epidemiological role is not as important as that of chronic carriers. Some patients excreting S. typhi have no history of Typhoid fever
+
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 A single case should trigger investigation.
 
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -36,10 +43,15 @@ A single case should trigger investigation.
 
 **Environment:** shelter, availability of safety food and WASH practices, availability and access to health and social care.
 
-
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	It is low in waterborne outbreaks (mean=4.8%) and higher in foodborne outbreaks (mean=16.7%).
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
@@ -48,6 +60,8 @@ A single case should trigger investigation.
 -	Serious complications occur in up to 10% of typhoid fever patients, especially in those who have been ill longer than two weeks and who have not received proper treatment.
 -	Typhoid fever caused by multidrug-resistance (MDR) strains of S. Typhi – that is, resistance to all three of the first-line antibiotics (chloramphenicol, ampicillin and co trimoxazole) – is associated with more severe illness and higher rates of complications and death, especially in children aged <2 years of age.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -57,10 +71,16 @@ Salmonella Typhi (bacterium)
 
 Humans.
 
-## How disease is spread (Modes of transmission)	
+</div> 
+<!-- end -->
+
+## How disease is spread (Modes of transmission)
+	
 - 	Ingestion of contaminated food and water (food or drink beverages that have been handled by a person who is shedding Salmonella Typhi or if sewage contaminated with Salmonella Typhi bacteria gets into the water you use for drinking or washing food).
 -	Flies can mechanically transfer the organism to food, where the bacteria then multiply to achieve an infective dose.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -70,13 +90,18 @@ Humans.
 
 The disease is communicable for as long as the infected person excretes S.typhi in their excreta, usually after the first week of illness through convalescence. Approximately 10% of untreated cases will excrete S. typhi for three months and between 2-5% of all cases become chronic carriers.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
 
 -	The disease starts with fatigue, headache, abdominal pain and fever. Constipation usually occurs in older children and adults, whereas younger children may suffer from diarrhoea. 
 -	Severe forms of Typhoid fever may entail cerebral dysfunction, delirium and shock, and occasionally also intestinal perforation and haemorrhages. 
 -	Symptoms are often non-specific and clinically non-distinguishable from other febrile illnesses.
 -	Clinical severity varies and severe cases may lead to serious complications or even death. Without therapy, the illness may last for three to four weeks and death rates range between 12% and 30%.
-
 
 ## Other diseases with similar clinical signs and symptoms
 
@@ -90,12 +115,13 @@ Malaria, Dengue fever, Influenza or other febrile illnesses.
 
 -	Typhoid fever is treated with antibiotics.
 -	Two typhoid vaccines are currently recommended for use by: an injectable polysaccharide vaccine based on the purified Vi antigen (known as Vi-PS vaccine) for persons aged two years and above and a live attenuated oral Ty21a vaccine in capsule formulation for those over five years of age.
-
   
 ## Immunity	
 
 Typhoid fever normally results in lifelong immunity. Reinfections are rare. Typhoid vaccine are efficient in 50-70% cases, but their protective effect declines over time, so a booster dose is required three to seven years after primary series.
 
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Typhoid? 
 
@@ -111,9 +137,11 @@ Evidence of effectiveness | Activity
 
 
 # Indicators and targets 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.    
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -125,7 +153,7 @@ Case-fatality rate |	%
 Attack rate |	%
 Vaccination coverage |	% 
 
-
+</div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
 ## Red Cross/Crescent activities
@@ -149,9 +177,6 @@ Households who have a clean and covered water container [observation]|	%
 Respondents who report only eating hot and peeled foods |	% 
 Respondents who report using a latrine for defecation (household or communal) |	% 
 Food vendors taking correct precautions when preparing and selling food (handwashing, only hot food, use of safe water) |	100% 
-
-
-
 
 # Impact on other sectors/program areas 
 

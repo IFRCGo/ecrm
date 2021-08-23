@@ -5,9 +5,9 @@ layout: page
 identifier: 11
 lang: en
 
-img: disease-example-2.jpg
+img: disease-example-1.jpeg
 slug: Marburg Haemorrhagic Fever
-permalink: "disease/marburghaemorrhagic/"
+permalink: "disease/marburg-haemorrhagic/"
 ---
 
 # FACT SHEET
@@ -16,19 +16,28 @@ permalink: "disease/marburghaemorrhagic/"
 
 Outbreaks and sporadic cases have been reported in Angola, Democratic Republic of the Congo, Kenya, South Africa (in a person with recent travel history to Zimbabwe) and Uganda. In 2008, two independent cases were reported in travellers who visited a cave inhabited by Rousettus bat colonies in Uganda.  Case fatality rates in Marburg haemorrhagic fever (MHF) outbreaks have ranged from 24% to 88%.
 
-
 ## Case definition	
 
 **Routine surveillance**
+
 **Suspected case:** Illness with onset of fever and no response to treatment for usual causes of fever in the area, and at least one of the following signs: bloody diarrhoea, bleeding from gums, bleeding into skin (purpura), bleeding into eyes and urine
+
 **Confirmed case:** A suspected case with laboratory confirmation (positive IgM antibody, positive PCR or viral isolation)
 
 **Community-based surveillance**
+
 Illness with onset of fever and no response to treatment of usual causes of fever in the area OR at least one of the following signs: bleeding, bloody diarrhoea, bleeding into urine OR any sudden death.
+
 During a Marburg outbreak, surveillance should use the case definitions described in one of the references (see below).
+
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 Single case.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -40,43 +49,71 @@ Single case.
 
 **Environment:** : presence of fruit bats, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
+
 ## Attack rate
+
 - 23% for family members sleeping in the same room with the patient
 - 81% for those providing direct care.
 
+</div> 
+<!-- end -->
+
 ## Vulnerable people
+
 - People who work in or visit mines or caves inhabited by Rousettus bats (fruit bats) colonies
 - Healthcare providers caring for patients with Marburg haemorrhagic fever
 - Family and friends in close contact with Marburg haemorrhagic fever
 - Mourners who have direct contact with bodies during burial rituals.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Infectious agent
+
 Marburg virus
 
 ## Reservoir/Host
 
 Humans, non-human primates, Rousettus bats (fruit bats).
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	Close contact with the blood, secretions, organs or other bodily fluids of infected persons 
 -	Contact with the body of the deceased during burial ceremonies 
 -	Transmission via contaminated injection equipment or through needle-stick injuries 
 -	Sexual contact with a man up to seven weeks after recovery 
 -	Contact with fruit bats and probably apes and monkeys.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Incubation period
+
 Five to ten days (range 2-21 days).
 
 ## Period of infectiousness
+
 People remain infectious as long as their blood contains the virus. Recovering patients are no longer contagious to others and their return home or transfer to a general hospital is safe. Sperm may still be contagious for a period of three months after patient’s recovery.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	Starts abruptly with fever, severe headache, malaise, muscle pain, nausea, vomiting and diarrhoea 
 -	Usually followed by a rash and bleeding under the skin and from the nose, vagina and gums, blood with vomitus and in the stools 
 -	In severe cases confusion, irritability and aggression is present.
 
-
 ## Other diseases with similar clinical signs and symptoms
+
 Other haemorrhagic fevers (Ebola fever, Rift Valley fever, Lassa fever, Crimean-Congo fever, Dengue), Malaria, Typhoid fever, Measles and some other infections.
 
 ## Diagnosis
@@ -86,12 +123,16 @@ Other haemorrhagic fevers (Ebola fever, Rift Valley fever, Lassa fever, Crimean-
 -	 IgM-capture ELISA can be used to confirm a case of MHF within a few days of symptom onset.
 
 ## Clinical management (vaccine or treatment)
+
 -	Severe cases require intensive supportive care, as patients are frequently in need of intravenous fluids or oral rehydration with solutions containing electrolytes. 
 -	No specific treatment or vaccine is yet available for MHF.
 
 ## Immunity
 
 - No information available.
+
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Marburg? 
 
@@ -155,8 +196,6 @@ Respondents that correctly recall messages on symptoms/transmission/prevention/c
 Knowledge of target population on recommended prevention and control behaviours (e.g. isolation, restricted access to sick patients, use of protective clothing, safe funeral practices, etc.)|	% 
 PSS sessions provided to volunteers and staff |	#
 PSS sessions provided to patients/survivors/family members/contacts	| # 
-
-
 
 # Impact on other sectors/program areas 
 

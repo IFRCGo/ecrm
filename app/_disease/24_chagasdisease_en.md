@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Chagas disease
-permalink: "disease/chagasdisease/"
+permalink: "disease/chagas-disease/"
 ---
 
 # FACT SHEET
@@ -20,10 +20,15 @@ About six million to seven million people worldwide, mostly in Latin America, ar
 
 Any individual who, as a result of a screening programme or of testing as a possible case, was positive for antibodies against T. cruzi in two serological (ELISA) assays.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Alert/epidemic threshold
 Significant increase above historical averages in endemic countries.
 A single case of disease as a result of local transmission in non-endemic countries.
 
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -35,15 +40,22 @@ A single case of disease as a result of local transmission in non-endemic countr
 
 **Environment:** presence of natural reservoirs and vectors, availability and access to health and social care, shelter and housing, environmental sanitation. 
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
 -	It can be below 10% or up to 100% in some epidemics.
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
 -	People living in rural areas, in poor conditions.
 -	People who have suppressed immune systems (for example, due to HIV or chemotherapy)
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -53,10 +65,16 @@ Trypanosoma cruzi (parasite).
 
 Wild animals (e.g. armadillos, raccoons, opossums, and rodents), domestic animals, humans.
 
-## How disease is spread (Modes of transmission)	
+</div> 
+<!-- end -->
+
+## How disease is spread (Modes of transmission)
+	
 - 	T. cruzi parasites are mainly transmitted by contact with faeces/urine of infected blood-sucking triatomine bugs. They usually bite an exposed area of the skin such as the face, and the bug defecates close to the bite. The parasites enter the body when the person instinctively smears the bug faeces or urine into the bite, the eyes, the mouth, or into any skin break.
 -	Less often, T. cruzi can be transmitted by the consumption of food contaminated with T. cruzi, blood transfusion from infected donors; from an infected mother to child transmission during pregnancy or childbirth; organ transplants using organs from infected donors; and laboratory accidents.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -65,6 +83,12 @@ Wild animals (e.g. armadillos, raccoons, opossums, and rodents), domestic animal
 ## Period of infectiousness	
 
 Reservoirs of T. cruzi are infectious for bugs as long as the parasite is present in the blood.
+
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms
 
@@ -88,6 +112,8 @@ Non-Chagas cardiomyopathy and diseases of digestive system, Typhoid fever, visce
 
 None. A person who has had Chagas disease and has been cured can be re-infected through any of the routes of transmission.
 
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Monkeypox?  
 
@@ -103,9 +129,11 @@ Evidence of effectiveness | Activity
 
 
 # Indicators and targets 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -116,7 +144,7 @@ Cases treated per week (disaggregate by age, sex) |	#
 Case-fatality rate |	%
 Attack rate |	%
 
-
+</div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
 ## Red Cross/Crescent activities
@@ -136,8 +164,6 @@ Households with a handwashing facility(ies) with water and soap, or alternative 
 Insecticide interventions conducted in at-risk communities |	# or % 
 Households who report/can show improvements in dwelling (e.g. repair or replace floor, plastering on walls, roof) |	# 
 Households who demonstrate cleanliness inside dwelling OR households who participate in household cleaning campaign. |	#
-
-
 
 # Impact on other sectors/program areas 
 

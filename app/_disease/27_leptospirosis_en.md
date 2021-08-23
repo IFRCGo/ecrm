@@ -21,26 +21,39 @@ Leptospirosis is endemic in many countries, especially in tropical and subtropic
 **Clinical description:** The usual presentation is an acute febrile illness with headache, myalgia (particularly calf muscle) and prostration associated with any of the following symptoms/signs: conjunctival suffusion, anuria or oliguria, jaundice, cough, haemoptysis and breathlessness, haemorrhages (from the intestines; lung bleeding is notorious in some areas), meningeal irritation, cardiac arrhythmia or failure, skin rash. Other common symptoms include nausea, vomiting, abdominal pain, diarrhoea and arthralgia. The clinical diagnosis is difficult where diseases with symptoms similar to those of leptospirosis occur frequently.
 
 **Case classification (humans)**
+
 **Suspected:** A case that is compatible with the clinical description and a presumptive laboratory diagnosis.
+
 **Confirmed:** A suspect case with a confirmatory laboratory diagnosis.
 
-
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 Significant increase above historical averages.
 
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
 **Event description:** type of disaster, characteristics of displacement
+
 **Host:** community practices, cultural practices
+
 **Agent:** endemicity, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality, seasonality
+
 **Environment:** availability and access to health and social care.
 
-
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	5-50%
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
@@ -55,7 +68,8 @@ Significant increase above historical averages.
 -	people engaging in recreational water sports (e.g. swimming)
 -	pregnant women.
 
-
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -65,11 +79,17 @@ Leptospira (bacterium)
 
 Rodents, cattle, buffaloes, horses, sheep, goat, pigs, dogs and other mammals.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
+
 - 	Through cuts and abrasions of the skin, or through the mucous membranes of the eyes, nose and mouth with water contaminated with the urine of infected animals. As animals are constantly in our environment, there is a particular danger of getting Leptospirosis when flooding occurs, such as following a typhoon or very heavy seasonal rains, because of exposure to contaminated water when wading in floodwaters.
 -	Leptospirosis can occasionally also be transmitted through the drinking of water or ingestion of food contaminated with urine of infected animals, often rats.
 -	Human-to-human transmission occurs only very rarely (by sexual intercourse, and trans-placentally from the mother to the fetus and via breast milk to a child).
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
 
@@ -78,6 +98,13 @@ Typically between 5 to 14 days (range of 2 - 30 days).
 ## Period of infectiousness	
 
 First seven to ten days of illness.
+
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms
 
@@ -107,6 +134,8 @@ Influenza, Dengue Fever, Hantavirus infection, Yellow fever and other haemorrhag
 
 The level and duration of immunity is unclear and can vary
 
+</div> 
+<!-- end -->
 
 # Anthrax infection results in long-term immunity.
 
@@ -128,6 +157,7 @@ Evidence of effectiveness | Activity
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.   
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -138,7 +168,7 @@ Confirmed cases / deaths per week (disaggregate by age, sex) |	#
 Case-fatality rate |	%
 Attack rate |	%
 
-
+</div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
 ## Red Cross/Crescent activities
@@ -163,8 +193,6 @@ People/community volunteers received and use personal protective equipment (PPE)
 Households with a handwashing facility(ies) with water and soap, or alternative [observation] |	# or % 
 Safe, treated water supply for drinking and domestic use |	#, 100%
  
-
-
 # Impact on other sectors/program areas 
 
 Sector | High impact | Medium Impact | Low Impact

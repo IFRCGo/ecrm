@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Rift Valley Fever 
-permalink: "disease/riftvalleyfever /"
+permalink: "disease/rift-valley-fever /"
 ---
 
 # FACT SHEET
@@ -16,14 +16,19 @@ permalink: "disease/riftvalleyfever /"
 
 The virus was first identified in 1931 during an investigation into an epidemic among sheep on a farm in the Rift Valley of Kenya. Since then, outbreaks have been reported in other parts of sub-Saharan Africa, Egypt, Saudi Arabia and Yemen. In 1997–98, a major outbreak occurred in Kenya, Somalia and Tanzania following El Niño event and extensive flooding. Following infected livestock trade from the horn of Africa, RVF spread in September 2000 to Saudi Arabia and Yemen. RVF outbreaks in Africa are closely associated with the heavy rainfall that occurs during the warm phase of the El Niño–Southern Oscillation (ENSO) phenomenon.
 
-
 ## Case definition	
 
 A suspected human case is defined as a person with febrile syndrome, either haemorrhagic syndrome (epistaxis, haemoptysis, melena, hematemesis, gingival bleeding, bruising) or meningoencephalitis, and probable contact with animals infected with RVF virus. A confirmed case of RVF is defined based on a positive laboratory test result.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
+
 Single case.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -35,35 +40,62 @@ Single case.
 
 **Environment:**  presents of vectors and reservoirs, shelter, availability and access to health and social care.
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
+
 ## Attack rate
+
 -	Below 1% of population develops disease. Up to 13% of residents in heavily affected areas show serological evidence 
 
+</div> 
+<!-- end -->
+
 ## Vulnerable people
+
 - 	People spending time in rural areas and sleeping outdoors at night in regions where outbreaks occur
 -	Animal herdsmen, abattoir workers, veterinarians, and other individuals who work with potentially-infected animals in RVF-endemic areas
 -	International travellers increase their chances of getting the disease when they visit RVF-endemic locations during periods when sporadic cases or epidemics are occurring
 -	People who consumed or handled products from sick animals were significantly associated with acute RVF infection, severe illness, and death
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Infectious agent
+
 Rift Valley Fever virus.
 
 ## Reservoir/Host
 
 RVF can cause severe disease in domesticated animals including cattle, sheep, camels and goats. Sheep and goats appear to be more susceptible than cattle or camels. The rate of abortion among pregnant infected ewes is almost 100%.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	Direct or indirect contact (including inhalation) with the blood or organs of infected animals through the handling of animal tissue during slaughtering or butchering, assisting with animal births, conducting veterinary procedures, or from the disposal of carcasses or foetuses
 -	Mosquito bite (the dominant mosquito species vary by region)
 -	Probably by ingesting the unpasteurized or uncooked milk of infected animals.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
+
 Two to six days.
 
 ## Period of infectiousness
+
 No human-to-human transmission of RVF has been demonstrated so far.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	Starts with fever, headache, joint pain, muscle pain, sometimes neck stiffness, sensitivity to light and diarrhoea 
 -	Can cause blurred or decreased vision and can lead to permanent loss of vision (ocular form)
 -	Some patients suffer from the loss of memory, hallucinations, confusion, disorientation, vertigo, convulsions, lethargy and coma (meningoencephalitis form)
@@ -71,7 +103,8 @@ No human-to-human transmission of RVF has been demonstrated so far.
 
 
 ## Other diseases with similar clinical signs and symptoms
-●	Malaria, West Nile virus infection, Crimean-Congo haemorrhagic fever, Hantavirus infection, Dengue fever, Ebola, Lassa, Chikungunya, Japanese encephalitis.
+
+-	Malaria, West Nile virus infection, Crimean-Congo haemorrhagic fever, Hantavirus infection, Dengue fever, Ebola, Lassa, Chikungunya, Japanese encephalitis.
 
 ## Diagnosis
 
@@ -79,16 +112,17 @@ No human-to-human transmission of RVF has been demonstrated so far.
 -	IgG and IgM antibody enzyme-linked immunosorbent assay (ELISA)
 -	Virus isolation by cell culture
 
-
 ## Clinical management (vaccine or treatment)
 -	As most human cases of RVF are relatively mild and of short duration, no specific treatment is required for these patients. 
 -	For the more severe cases, the treatment is general supportive therapy.
 -	An inactivated vaccine has been developed for human use. However, this vaccine is not licensed and is not commercially available.
 
-
 ## Immunity
 
 Natural infection is likely to confer long-term protection against reinfection.
+
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Rift Valley Fever? 
 
@@ -106,6 +140,7 @@ Recommended interventions | Activity
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High  | Vaccination of at-risk groups (e.g. health staff) 
 
 # Indicators and targets 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
@@ -119,8 +154,6 @@ Cases per week |	#
 Deaths from RVF per week |# 
 Case fatality rate 	|
 Attack rate (population) |
-
-
 
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
@@ -144,9 +177,6 @@ Radio spots/SMS messages/television spots broadcast |	#
 Respondents that correctly recall messages on symptoms/transmission/prevention/case definition for referral |	% 
 Knowledge of target population on recommended prevention and control behaviours (e.g. safe animal husbandry and slaughtering practices, safe consumption of fresh blood, raw milk or animal tissue, and personal and community protection against mosquito bites)|	% increase
 Larvicide and/or fumigation interventions conducted in at-risk communities |	# 
-
-
-
 
 # Impact on other sectors/program areas 
 

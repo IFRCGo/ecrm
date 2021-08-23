@@ -7,8 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Middle East Respiratory Syndrome Coronavirus(MERS-CoV)
-
-permalink: "disease/merscov/"
+permalink: "disease/mers-cov/"
 ---
 
 # FACT SHEET
@@ -21,6 +20,7 @@ MERS-CoV was first identified in Saudi Arabia in 2012, with 27 countries now hav
 ## Case definition	
 
 **Probable case**
+
 - Definition 1: A febrile acute respiratory illness with clinical, radiological, or histopathological evidence of pulmonary parenchymal disease (e.g. pneumonia or Acute Respiratory Distress Syndrome) AND direct epidemiologic link with a laboratory-confirmed
 MERS-CoV case AND testing for MERS-CoV is unavailable, negative on a single inadequate specimen or inconclusive.
 
@@ -31,9 +31,14 @@ Case AND testing for MERS-CoV is inconclusive.
 
 **Confirmed case:** A person with laboratory confirmation of MERS-CoV infection, irrespective of clinical signs and symptoms
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 Single case
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -45,11 +50,18 @@ Single case
 
 **Environment:** presence of Dromedary camels, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	Secondary attack rate among household contacts: 1.3%.
 
+</div> 
+<!-- end -->
+
 ## Vulnerability
+
 -	People with exposure to camels
 -	Close contacts of confirmed cases of MERS-CoV
 -	Health personnel not using recommended infection control precautions
@@ -57,27 +69,45 @@ Single case
 -	People with weakened immune systems 
 -	People with chronic diseases such as renal disease, Cancer, chronic lung disease, and Diabetes.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent
+
 Middle East Respiratory Syndrome Corona Virus
 
 ## Reservoir/Host
 
 Dromedary camels, humans.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	The virus does not pass easily from person to person unless there is close contact, such as providing unprotected care to an infected patient.
 -	Human to human transmission has been limited to date, and has been identified among family members, patients, and health care workers.
 -	The route of transmission from animals to humans is not fully understood, but Dromedary camels are a major reservoir host for MERS-CoV and an animal source of infection in humans.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
+
 2-14 days.
 
 ## Period of infectiousness
+
 The duration of infectivity for MERS-CoV infection is unknown. While standard precautions should always be applied, additional barrier nursing precautions should be used for the duration of symptomatic illness and continued for 24 hours after the resolution of symptoms.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	The clinical spectrum of MERS-CoV infection ranges from no symptoms (asymptomatic) or mild respiratory symptoms to severe acute respiratory disease and death
 -	A typical presentation of MERS-CoV disease is fever, cough and shortness of breath. Pneumonia is a common finding, but not always present
 -	Gastrointestinal symptoms, including diarrhoea, have also been reported. 
@@ -85,6 +115,7 @@ The duration of infectivity for MERS-CoV infection is unknown. While standard pr
 
 
 ## Other diseases with similar clinical signs and symptoms
+
 Common cold, Influenza, Avian influenza, Severe acute respiratory syndrome (SARS), pneumonia, RSV infection
 
 ## Diagnosis
@@ -93,13 +124,16 @@ Common cold, Influenza, Avian influenza, Severe acute respiratory syndrome (SARS
 -	Serology testing (for surveillance purpose only).
 
 ## Clinical management (vaccine or treatment)
+
 -	No vaccine or specific treatment is currently available. Treatment is supportive and based on the patient’s clinical condition.
 
 
 ## Immunity
+
 -	It is not clearly understood whether a naturally acquired immunity provides a lifelong protection of reinfection.
 
-
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Lassa fever?
 

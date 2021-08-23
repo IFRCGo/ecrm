@@ -23,19 +23,27 @@ Plague can be a very severe disease in people, with a case-fatality ratio of 30%
 **Laboratory criteria for diagnosis:** Confirmation of plague requires laboratory testing.Isolation of Yersinia pestis in cultures from buboes, blood, CSF or sputum OR detecting  specific Y. pestis antigen using different techniques. 
 
 **Case classification**
+
 **Suspected:** Any person meeting the clinical criteria with at least one the epidemiological criteria. 
 Bubonic plague: Fever AND sudden onset of painful lymphadenitis
 OR
+
 **Pneumonic plague:** Fever AND at least one of the following three:
 Cough, Chest pain, Haemoptysis
 
 **Probable:** Any person meeting the clinical criteria with at least one of the laboratory criteria for a probable case (positive direct fluorescent antibody (DFA) test for Y. pestis in clinical specimen OR passive haemagglutination test, with antibody titre of at least 1:10, specific for the F1 antigen of Y.pestis as determined by the haemagglutination inhibition test (HI) OR epidemiological link with a confirmed case.)
+
 **Confirmed:** A suspected or probable case that is laboratory-confirmed.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 
 One confirmed case is sufficient to identify potential outbreak but this needs to be interpreted in context. (e.g confirmed pulmonary plague case in urban context requires immediate intervention) 
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -47,15 +55,22 @@ One confirmed case is sufficient to identify potential outbreak but this needs t
 
 **Environment:** presence of plague natural foci, shelter, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
 During epidemics of Dengue, attack rates among susceptible are often 40 - 50%, but may reach 80 - 90%.
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
 There is a risk of human plague wherever the presence of plague natural foci (the bacteria, an animal reservoir and a vector) and human population co-exist for more details see here: http://www.who.int/csr/disease/plague/Plague-map-2016.pdf?ua=1) 
 Pneumonic form is invariably fatal unless treated early, but even bubonic plague has case-fatality ratio of 30-60%.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -65,11 +80,16 @@ Yersinia pestis bacterium.
 
 Rodents, humans, some other animals.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
 -	Bites of infected fleas (Bubonic plague, septicemic plague, pneumonic plague), particularly Xenopsylla cheopis (Oriental rat flea).
 -	Touching or skinning infected animals (such as prairie dogs, squirrels, rats, and rabbits), (Bubonic plague, Septicemic plague, Pneumonic plague)
 -	Inhaling droplets from the cough of an infected person or animal (especially sick cats), (Pneumonic plague).
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -79,6 +99,11 @@ One to seven days.
 
 Only humans with Pneumonic plague can transmit the infection to others. Patients in the early stage of pneumonic plague (approximately the first 20–24 h) apparently pose little risk. Patients in the final stages of disease who cough sputum with much visible blood and/or pus pose the highest risk of infection.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms	
 
@@ -87,7 +112,6 @@ Only humans with Pneumonic plague can transmit the infection to others. Patients
 -	Septicemic plague: abdominal pain, shock, and possibly bleeding into the skin and other organs. Skin and other tissues may turn black and die, especially the fingers, toes, and the nose.
 -	Pneumonic plague: rapidly developing Pneumonia with shortness of breath, chest pain, cough, and sometimes bloody or watery mucous; it may cause respiratory failure and shock.
  breathing and bleeding (known as “dengue haemorrhagic fever”).
-
 
 ## Other diseases with similar clinical signs and symptoms
 
@@ -105,10 +129,12 @@ Anthrax, bacterial pneumonia, bacterial sepsis, brucellosis, Rocky Mountain spot
 -	Antibiotics and supportive therapy are effective against Plague if patients are diagnosed in time. 
 -	Pneumonic plague patients must be isolated and cared by trained medical staff with personal protective equipment. Prophylaxis should be provided to close contacts of a pneumonic plague patient.(e.f HCW)
 
-  
 ## Immunity	
 
 -	Individuals who survived the Plague infection are considered to have acquired immunity against subsequent reinfection of Y. pestis.
+
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Plague? 
 
@@ -131,6 +157,7 @@ Evidence of effectiveness | Activity
 <img width="40px" src="{{ '/assets/img/1-low.png' | relative_url }}"> Low | Vaccination (except for high-risk groups such as laboratory staff) 
 
 # Indicators and targets 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
 
 <!-- start ## Epidemic characteristics and progression	 -->
@@ -144,7 +171,6 @@ Suspected cases / deaths per week (disaggregate by age, sex) |	#
 Confirmed cases / deaths per week (disaggregate by age, sex) |	#
 Case-fatality rate	|
 Attack rate |
-
 
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
@@ -171,7 +197,7 @@ Radio spots/SMS messages/television spots broadcast |	#
 Respondents that correctly recall messages on symptoms/transmission/prevention/case definition for referral |	% 
 Knowledge of target population on recommended prevention and control behaviours	| % increase
 	|
-For Pneumonic plague specifically:	|
+**For Pneumonic plague specifically:**	|
 Patients are isolated (to avoid infecting others via air droplets) |	100% 
 Close contacts identified (total and per week) 	| # 
 Close contacts followed for 14 days |	# 

@@ -19,12 +19,20 @@ Severe Dengue affects most countries in Asia and Latin America. Globally there i
 ## Case definition	
 
 **Probable dengue:** live in/travel to Dengue endemic area AND fever AND two of the following criteria: nausea, vomiting, rash, ache and pains, Tourniquet test positive, leukopenia, any warning sign (abdominal pain or tenderness, persistent vomiting, clinical fluid accumulation, mucosal bleed, lethargy, restlessness, liver enlargement >2 cm; laboratory: increase in haematocrit (HCT) concurrent with rapid decrease in platelet count).
+
 **Laboratory-confirmed case.**
+
 **Criteria for severe Dengue:**  severe plasma leakage leading to: dengue shock syndrome (DSS), fluid accumulation with respiratory distress; severe bleeding as evaluated by clinician; severe organ involvement (liver: AST or ALT >=1000; central nervous system (CNS): impaired consciousness; heart and other organs).
+
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 
 At the local level a single Dengue case may trigger action. At state or provincial level, the increase in reported cases above an established baseline for the same week or month in preceding years, or increasing vector density, may indicate impending epidemic activity. At national level, the detection of changes in virus serotype, subtype or genotype distribution, clinical severity or seropositivity rate, or the introduction of a Dengue vector into a new ecological niche, are signals that should be investigated without delay.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -36,12 +44,18 @@ At the local level a single Dengue case may trigger action. At state or provinci
 
 **Environment:** presence of vectors, shelter, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
+
 ## Attack rate
 During epidemics of Dengue, attack rates among susceptible are often 40 - 50%, but may reach 80 - 90%.
 
 ## Vulnerability
 
 Infants, children and adults alike. Recovery from infection by one dengue virus provides lifelong immunity against that particular virus serotype. However, this immunity gives only only partial and transient protection against new infection by the other three serotypes of the virus. There is evidence that sequential infection increases the risk of developing severe dengue.
+
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -51,11 +65,18 @@ Dengue virus
 
 Humans
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
+
 - Mosquito bite (mainly of the species Aedes aegypti and, to a lesser extent, Ae. albopictus).
 - The mosquitoes usually bite during the daytime (peak biting periods are early in the morning and in the evening at dusk).
 - From mother to child during pregnancy
 - Through organ transplants or blood transfusions from infected donors.
+
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period	
 
@@ -65,6 +86,12 @@ Four to seven days (range three to ten days).
 
 Patients who are already infected with the dengue virus can transmit the infection (four to five days; maximum 12) via Aedes mosquitoes after their first symptoms appear.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms	
 
@@ -92,6 +119,8 @@ Zika virus disease, Chikungunya, Lassa fever, Crimean-Congo fever, Ebola virus d
 - There are four distinct, but closely related, serotypes of the virus that cause dengue (DEN-1, DEN-2, DEN-3 and DEN-4). Recovery from infection by one provides lifelong immunity against that particular serotype. However, cross-immunity to the other serotypes after recovery is only partial and temporary. Subsequent infections by other serotypes increase the risk of developing severe Dengue.
 - Dengue vaccine is available (three dose series given 6 months apart, 9 -45 yrs). However, the recent evidence indicates potential long-term safety issue in seronegative individuals when vaccine is used.  The current SAGE recommendation is that for countries considering vaccination as part of their dengue control program, a “pre-vaccination screening strategy” would be the preferred option, in which only dengue-seropositive persons are vaccinated. This will require careful assessment at the country level, including sensitivity and specificity of a screening, dengue hospitalization rates, and affordability of pre-vaccination screening. If vaccines are used it should be considered as part of an integrated dengue prevention and control strategy together with effective vector control and clinical care.
 
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Dengue fever? 
 

@@ -27,9 +27,14 @@ Chikungunya has been identified in over 60 countries in Asia, Africa, Europe and
 
 **Confirmed case:** a suspect patient with laboratory confirmation
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 One confirmed case, if there is no known outbreak already under investigation.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -41,43 +46,68 @@ One confirmed case, if there is no known outbreak already under investigation.
 
 **Environment:** presence of vectors, shelter, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
 Chikungunya affects one-third to three-quarters of the population in areas where the virus is circulating.
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 -	Older people (≥65 years) 
 -	Newborns infected around the time of birth 
 -	People with medical conditions 
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Infectious agent
+
 Chikungunya virus
 
 ## Reservoir/Host
 
 Non-human and human primates are likely the main reservoirs of the virus; other potential reservoirs are various vertebrates.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	From human to human through mosquito bite (Aedes aegypti and Aedes albopictus and some other mosquito vectors in Africa)
 -	The mosquitoes usually bite during the daytime (peak biting periods are early in the morning and in the evening at dusk).
 -	Chikungunya virus is transmitted rarely from mother to newborn around the time of birth
 -	Blood-borne transmission is possible.
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Incubation period
+
 Four to eight days (range 2-12 days).
 
 ## Period of infectiousness
+
 The virus circulates in the blood of infected humans for several days, at approximately the same time that they have Chikungunya Fever. Aedes mosquitoes acquire the virus when they feed on an individual during this period.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	Characterized by an abrupt onset of fever frequently accompanied by joint pain
 -	Other common signs and symptoms include muscle pain, headache, nausea, fatigue and rash
 -	The joint pain is often very debilitating, but usually lasts for a few days or may be prolonged to weeks
 -	Most patients recover fully, but in some cases joint pain may persist for several months, or even years
 -	Serious complications are not common, but in older people, the disease can contribute to the cause of death.
 
-
 ## Other diseases with similar clinical signs and symptoms
+
 Dengue, Leptospirosis, Malaria, Meningitis, Zika and other infections.
 
 ## Diagnosis
@@ -87,15 +117,16 @@ Dengue, Leptospirosis, Malaria, Meningitis, Zika and other infections.
 -	Serological tests (ELISA).
 
 ## Clinical management (vaccine or treatment)
+
 -	There is no specific antiviral drug treatment for Chikungunya. 
 -	Treatment is directed primarily at relieving the symptoms, including joint pain using anti-pyretics, optimal analgesics and fluids. 
 -	There is no commercial Chikungunya vaccine
 
-
 ## Immunity
 -	Recovery from an infection will confer life-long immunity.
 
-
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Chikungunya? 
 
@@ -131,8 +162,6 @@ Suspected/confirmed cases per week (disaggregated by sex, age) |	#
 Suspected/confirmed cases seen per Primary Health Centre (PHC) per week |	# 
 Attack rate (population) 	|
 
-
-
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
@@ -154,7 +183,6 @@ People who attended group session held by volunteers |	#
 Radio spots/SMS messages/television spots broadcast |	# 
 Respondents that correctly recall messages on symptoms/transmission/prevention |	% 
 Knowledge of target population on recommended prevention and control behaviours |	% increase 
-
 
 # Impact on other sectors 
 

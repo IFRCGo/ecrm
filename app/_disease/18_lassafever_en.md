@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Lassa Fever
-permalink: "disease/lassafever/"
+permalink: "disease/lassa-fever/"
 ---
 
 # FACT SHEET
@@ -25,9 +25,14 @@ Lassa fever is known to be endemic in Benin, Ghana, Guinea, Liberia, Mali, Sierr
 
 **Minor signs:** headache, sore throat, vomiting, diffuse abdominal pain /tenderness, chest/retrosternal pain, cough, diarrhoea, generalized myalgia or arthralgia, profuse weakness
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
 Single case
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -39,14 +44,23 @@ Single case
 
 **Environment:** presence of multimammate rats, shelter, availability of safe food and water, availability and access to health and social care.
 
-
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	The secondary attack rate for Lassa fever in nosocomial settings appears to be quite low (as long as adequate barrier nursing is maintained).
 
+</div> 
+<!-- end -->
+
 ## Vulnerability
+
 -	Those who live in or visit endemic regions, including Sierra Leone, Liberia, Guinea, and Nigeria and have exposure to the multimammate rat
 -	Women in the third trimester of pregnancy.
+
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent
 Lassa virus
@@ -55,21 +69,36 @@ Lassa virus
 
 Multimammate rat (Mastomys). Rats infected with Lassa virus do not become ill, but they can shed the virus in their urine and faeces.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	The Lassa virus is transmitted to humans via contact with food or household items contaminated with rodent urine or faeces.
 -	Person-to-person infections and laboratory transmission can also occur, particularly in hospitals lacking adequate infection prevention and control
 -	Lassa virus may be spread in contaminated medical equipment, such as reused needles
 -	Unprotected Sexual transmission of Lassa virus has been reported
 -	Casual contact (including skin-to-skin contact without exchange of body fluids) does not spread Lassa virus
 
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
+
 2-21 days.
 
 ## Period of infectiousness
+
 People remain infectious as long as their blood contains the virus. Sperm may still be contagious for a period of three months after the patient’s 
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
+
 -	About 80% of people who become infected with Lassa virus have no symptoms
 -	One in five infections result in severe disease, where the virus affects several organs such as the liver, spleen and kidneys
 -	The onset of the disease, when it is symptomatic, is usually gradual, starting with fever, general weakness, and malaise
@@ -78,9 +107,8 @@ People remain infectious as long as their blood contains the virus. Sperm may st
 -	Deafness occurs in 25% of patients who survive the disease. In half of these cases, hearing returns partially after 1–3 months
 -	Transient hair loss and gait disturbance may occur during recovery.
 
-
-
 ## Other diseases with similar clinical signs and symptoms
+
 Other haemorrhagic fevers (Marburg, Rift Valley, Crimean-Congo, Dengue), malaria, typhoid fever, measles, shigellosis and other infections
 
 ## Diagnosis
@@ -91,17 +119,17 @@ Other haemorrhagic fevers (Marburg, Rift Valley, Crimean-Congo, Dengue), malaria
 -	Antigen detection tests
 -	Virus isolation by cell culture.
 
-
-
 ## Clinical management (vaccine or treatment)
+
 -	The antiviral drug Ribavirin seems to be an effective treatment for Lassa fever if given early during the clinical illness. There is no evidence to support the role of Ribavirin as post-exposure prophylactic treatment for Lassa fever.
 -	There is currently no vaccine that protects against Lassa fever.
 
-
 ## Immunity
+
 -	Immunity against reinfection does occur after recovery from the illness but it is not known how long this immunity lasts.
 
-
+</div> 
+<!-- end -->
 
 # Which interventions are most effective for prevention and control of Lassa fever?
 

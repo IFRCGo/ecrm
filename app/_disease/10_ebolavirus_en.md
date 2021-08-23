@@ -5,33 +5,44 @@ layout: page
 identifier: 10
 lang: en
 
-img: disease-example-2.jpg
+img: disease-example-1.jpeg
 slug: Ebola Virus
-permalink: "disease/ebolavirus/"
+permalink: "disease/ebola/"
 ---
 
 # FACT SHEET
 
 ## Importance
 
-Ebola virus disease (EVD) first appeared in 1976 in two simultaneous outbreaks, in what is now South Sudan, and the Democratic Republic of Congo. The latter occurred in a village near the Ebola River, from which the disease takes its name. 
+Ebola virus disease (EVD) first appeared in 1976 in two simultaneous outbreaks, in what is now South Sudan, and the Democratic Republic of Congo. The latter occurred in a village near the Ebola River, from which the disease takes its name.
+ 
 The 2014–2016 outbreak in West Africa was the largest and most complex Ebola outbreak since the virus was first discovered. There were more cases and deaths in 2014-2016 than all the previous years combined. The outbreak also spread between countries, starting in Guinea then moving across land borders to Sierra Leone and Liberia. 
-The average EVD case fatality rate is around 50%. Case fatality rates have varied from 25% to 90% in past outbreaks.
 
+The average EVD case fatality rate is around 50%. Case fatality rates have varied from 25% to 90% in past outbreaks.
 
 ## Case definition	
 
 **Routine surveillance**
-**Suspected case:** Illness with onset of fever and no response to treatment for usual causes of fever in the area, and at least one of the following signs: bloody diarrhoea, bleeding from gums, bleeding into skin (purpura), bleeding into eyes and urine
+
+**Suspected case:** Illness with onset of fever and no response to treatment for usual causes of fever in the area, and at least one of the following signs: bloody diarrhoea, bleeding from gums, bleeding into skin (purpura), bleeding into eyes and urine.
+
 **Confirmed case:** A suspected case with laboratory confirmation (positive IgM antibody, positive PCR or viral isolation).
 
 **Community-based surveillance**
-Illness with onset of fever and no response to treatment of usual causes of fever in the area OR at least one of the following signs: bleeding, bloody diarrhoea, bleeding into urine OR
-any sudden death.
-During an Ebola outbreak, surveillance should use the case definitions described below.
+
+Illness with onset of fever and no response to treatment of usual causes of fever in the area OR at least one of the following signs: bleeding, bloody diarrhoea, bleeding into urine OR any sudden death.
+
+During an Ebola outbreak, surveillance should use the case definitions described.
+
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
+
 Single case.
+
+</div> 
+<!-- end -->
 
 ## Risk assessment
 
@@ -43,29 +54,44 @@ Single case.
 
 **Environment:** : shelter, availability and access to health and social care
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
+
 ## Attack rate
+
 - Household attack rates are between 12 and 48%.
 
+</div> 
+<!-- end -->
+
 ## Vulnerability
+
 - Healthcare providers caring for Ebola patients
 - Family and friends in close contact with Ebola patients
 - Mourners who have direct contact with bodies during burial rituals
 - People in contact with wild animals
 - Sexual partners of Ebola survivors.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
+
 ## Infectious agent
+
 Ebola virus.
 
 ## Reservoir/Host
 
 Humans, fruit bats, apes and monkeys.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)
+
 -	Through direct contact (through broken skin or mucous membranes in, for example, the eyes, nose, or mouth) with blood or body fluids of a person who is sick with or has died from Ebola.
 - Through the contact with objects (like needles and syringes) that have been contaminated with body fluids from a person who is sick with Ebola or the body of a person who has died from Ebola.
 - Through the direct contact with infected fruit bats, apes and monkeys.
 - Possibly through during the sexual intercourse with a man who has recovered from Ebola.
-
 
 <!-- start ## Alert/Epidemic threshold	 -->
 <div class="hide profile2" markdown="1"> 
@@ -127,8 +153,6 @@ Vector Borne
 - _Anopheles_ mosquito bite. 
 - The mosquitoes usually bite between sunset and sunrise during the night. 
 
-
-
 <!-- start ## Incubation period	+  Period of infectiousness		 -->
 <div class="hide profile2" markdown="1"> 
 
@@ -142,7 +166,6 @@ People remain infectious as long as their blood contains the virus. Recovering p
 
 </div> 
 <!-- end ## Incubation period	+  Period of infectiousness		 -->
-
 
 <!-- start ## misc disease details	 -->
 <div class="hide profile2 profile3" markdown="1"> 
@@ -166,11 +189,9 @@ Other haemorrhagic fevers (Marburg, Rift Valley, Crimean-Congo), Malaria, Typhoi
 - Electron microscopy
 - Virus isolation by cell culture.
 
-
 ## Clinical management (vaccine or treatment)
 
 - Supportive care-rehydration with oral or IV fluids and treatment of specific symptoms improves survival. 
-
   
 ## Immunity	
 
@@ -181,6 +202,7 @@ Other haemorrhagic fevers (Marburg, Rift Valley, Crimean-Congo), Malaria, Typhoi
 
 # Which interventions are most effective for prevention and control? 
 
+## PREVENTION AND CONTROL
 
 Evidence of effectiveness | Activity
 --- | ---
@@ -195,7 +217,6 @@ Evidence of effectiveness | Activity
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | stricting movements to prevent onward transmission 
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High  | Post-recovery condom use  
 <img width="40px" src="{{ '/assets/img/2-medium.png' | relative_url }}"> Medium | Ring vaccination  
-
 
 # Indicators and targets 
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
@@ -216,7 +237,6 @@ Attack rate | %
 Number of isolation units established | #
 Number of admissions per isolation unit  | #
 Number of districts with new cases | #
-
 
 </div> 
 <!-- end ## Epidemic characteristics and progression	 -->
@@ -241,8 +261,6 @@ Respondents that correctly recall messages on symptoms/transmission/prevention/c
 Knowledge of target population on recommended prevention and control behaviours (e.g. isolation, restricted access to sick patients, use of protective clothing, safe funeral practices, etc.)|	% 
 PSS sessions provided to volunteers and staff |	#
 PSS sessions provided to patients/survivors/family members/contacts	| # 
-
-
 
 # Impact on other sectors/program areas 
 

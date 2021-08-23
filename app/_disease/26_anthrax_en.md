@@ -5,7 +5,7 @@ layout: page
 identifier: 26
 lang: en
 
-img: disease-example-2.jpg
+img: disease-example-1.jpeg
 slug: Anthrax
 permalink: "disease/anthrax/"
 ---
@@ -15,20 +15,28 @@ permalink: "disease/anthrax/"
 ## Importance
 
 Anthrax continues to be reported from many countries in domesticated and wild herbivores, especially where livestock vaccination programmes are inadequate or have been disrupted.
+
 Humans generally acquire the disease directly or indirectly from infected animals, or occupational exposure to infected or contaminated animal products. Control in livestock is therefore the key to reduced incidence. The disease is generally regarded as being non-contagious because human to human transmission is rare (cutaneous anthrax only).
 
 ## Case definition	
 
 **Clinical description:** an illness with acute onset characterised by several clinical forms  (cutaneous: skin lesion evolving over two to six days from a papular through a vesicular stage, to a depressed black eschar invariably accompanied by oedema that may be mild to extensive; gastrointestinal: abdominal distress characterised by nausea, vomiting, anorexia and followed by fever; pulmonary (inhalation): brief prodrome resembling acute viral respiratory illness, followed by rapid onset of hypoxia, dyspnea and high temperature, with X-ray evidence of mediastinal widening; meningeal: acute onset of high fever possibly with convulsions and loss of consciousness, meningeal signs and symptoms.
+
 **Laboratory criteria for diagnosis:** laboratory confirmation by one or more of the following: demonstration of B. anthracis in a clinical specimen by microscopic examination of stained smears of vesicular fluid, blood, cerebrospinal fluid, pleural fluid, stools, etc. OR isolation of B. anthracis from a clinical specimen (e.g. blood, lesions, discharges) OR positive serology (ELISA, Western blot, toxin detection, chromatographic assay, fluorescent antibody test (FAT)).
 
 **Case classification**
+
 **Suspected:** A case that is compatible with the clinical description and has an epidemiological link to confirmed or suspected animal cases or contaminated animal products.
+
 **Probable:** A suspected case that has a positive reaction to allergic skin test (in non-vaccinated individuals)
+
 **Confirmed:** A suspected case that is laboratory-confirmed.
 
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
+
 Single case.
 
 
@@ -42,10 +50,15 @@ Single case.
 
 **Environment:** immunisation coverage among animals, availability of safe food, availability and access to health and social care
 
-
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 -	Generally low and depends on the type of exposure.
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
@@ -54,6 +67,8 @@ Single case.
 -	People who inject drugs.
 -	People with Gastrointestinal and Pulmonary anthrax have poorer prognosis.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -63,8 +78,15 @@ Bacillus anthracis (bacterium). When conditions are not conducive to growth and 
 
 Domestic and wild animals such as cattle, sheep, goats, antelope, and deer.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
+
 - 	People get infected with Anthrax when spores get into the body. This can happen when people breathe in spores, eat food or drink water that is contaminated with spores, or get spores in a cut or scrape in the skin or when injecting drugs.
+
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
 
@@ -74,12 +96,17 @@ Two to six days (range: few hours to three weeks).
 
 Humans are not infectious.
 
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
+
 ## Clinical signs and symptoms
 
 -	Cutaneous, or skin, Anthrax is the most common form. It is usually contracted when a person with a break in their skin, such as a cut or abrasion, comes into direct contact with Anthrax spores. The resulting itchy bump rapidly develops into a black sore. Some people can then develop headaches, muscle aches, fever and vomiting. Cutaneous anthrax must be treated quickly. Appropriate medical evaluation and treatment are essential.
 -	Gastrointestinal anthrax is caught from eating meat from an infected animal. It causes initial symptoms similar to food poisoning but these can worsen to produce severe abdominal pain, vomiting of blood and severe diarrhoea. Appropriate medical evaluation and treatment are essential.
 -	The most severe form of human anthrax is called inhalation or pulmonary anthrax. Though the rarest, it is the form of human anthrax causing the most current concern. This form of the disease is caused when a person is directly exposed to a large number of anthrax spores suspended in the air, and breathes them in. The first symptoms are similar to those of a common cold, but this can rapidly progress to severe breathing difficulties and shock. Appropriate medical evaluation and treatment are essential.
-
 
 ## Other diseases with similar clinical signs and symptoms
 
@@ -89,7 +116,6 @@ Boil (early lesion), arachnid bites, ulcer (especially tropical); erysipelas, Gl
 
 -	To measure antibodies or toxin in blood
 -	To test directly for Bacillus anthracis in a sample of blood, skin lesion swab, spinal fluid or respiratory secretions.
-
 
 ## Clinical management (vaccine or treatment)
 
@@ -101,6 +127,8 @@ Boil (early lesion), arachnid bites, ulcer (especially tropical); erysipelas, Gl
 
 Anthrax infection results in long-term immunity.
 
+</div> 
+<!-- end -->
 
 # Anthrax infection results in long-term immunity.
 
@@ -114,11 +142,12 @@ Evidence of effectiveness | Activity
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | Farm workers and people entering infected farms wearing appropriate PPE 
 <img width="40px" src="{{ '/assets/img/3-high.png' | relative_url }}"> High | On infected farms, control possible vectors such as flies, rodents and birds.  
 
-
-# Indicators and targets 
+# Indicators and targets
+ 
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.    
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression 
 
@@ -131,7 +160,7 @@ Attack rate |	%
 Animal/livestock vaccination coverage |	%
 Number of animals/livestock vaccinated  (or treated) |	# 
 
-
+</div>
 <!-- end ## Epidemic characteristics and progression	 -->
 
 ## Red Cross/Crescent activities
@@ -152,8 +181,6 @@ People who know who, where and when to report a sick animal  |	%
 People who report or demonstrate safe slaughtering practices  |	# 
 People who report safe disposal of carcasses (burnt or buried with precautions taken to minimize contamination) |	%
 At-risk population (e.g. farm workers) who received personal-protective equipment (e.g. gloves, boots). |	# 
-
-
 
 # Impact on other sectors/program areas 
 

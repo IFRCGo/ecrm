@@ -5,6 +5,7 @@ layout: page
 identifier: 1
 lang: es
 
+img: disease-example-1.jpeg
 slug: Enfermedad diarreica
 permalink: "es/enfermedad/enfermedad-diarreica/"
 ---

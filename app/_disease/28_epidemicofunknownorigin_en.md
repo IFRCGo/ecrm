@@ -7,7 +7,7 @@ lang: en
 
 img: disease-example-2.jpg
 slug: Epidemic of Unknown origin
-permalink: "disease/unknown/"
+permalink: "disease/unknown-epidemic/"
 ---
 
 # FACT SHEET
@@ -20,27 +20,40 @@ Occasionally, an outbreak or cluster of disease is seen in a population for whic
 
 It will be developed once the outbreak is detected.
 
-
+<!-- start ## Alert/Epidemic threshold	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Alert/epidemic threshold
+
 Cluster of cases with similar clinical manifestations, but with unknown origin or cause.
 
 
 ## Risk assessment
 
 **Event description:** type of disaster, characteristics of displacement
+
 **Host:** routine immunisation coverage, community practices, cultural practices
+
 **Agent:** endemic diseases, recent epidemics, ongoing prevention and control interventions, disease incidence, mortality, seasonality
+
 **Environment:** presence of potential reservoirs and vectors, availability of safety food and water, availability and access to health and social care.
 
+<!-- start ## Attack rate -->
+<div class="hide profile2" markdown="1"> 
 
 ## Attack rate
+
 Unknown
+
+</div> 
+<!-- end -->
 
 ## Vulnerability
 
 Unknown, but initial cases may indicate the most vulnerable.
 
+<!-- start ## Infectious agent + Reservoir/Host	 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Infectious agent	
 
@@ -50,9 +63,15 @@ Unknown
 
 Unknown.
 
+</div> 
+<!-- end -->
+
 ## How disease is spread (Modes of transmission)	
 
 Unknown at the beginning of epidemic. Efforts should be made to identify modes of transmission, particularly a possibility for human-to-human transmission.
+
+<!-- start ## Incubation period	+  Period of infectiousness		 -->
+<div class="hide profile2" markdown="1"> 
 
 ## Incubation period
 
@@ -61,6 +80,13 @@ Unknown
 ## Period of infectiousness	
 
 Unknown
+
+</div> 
+<!-- end ## Incubation period	+  Period of infectiousness		 -->
+
+
+<!-- start ## misc disease details	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Clinical signs and symptoms
 
@@ -85,12 +111,16 @@ No vaccine. Treatment is based on symptoms and clinical manifestations.
 
 Unknown
 
+</div> 
+<!-- end -->
 
 # Indicators and targets – generic 
+
 The indicators and targets below can be adapted to specific contexts and should be used for monitoring and evaluation of: i) progress of the epidemic and characteristics, and ii) measuring Red Cross/Crescent activities.  
  
 
 <!-- start ## Epidemic characteristics and progression	 -->
+<div class="hide profile2 profile3" markdown="1"> 
 
 ## Epidemic characteristics and progression  - select those that are applicable 
 
@@ -104,7 +134,7 @@ Weekly incidence rate (per 1000 or 10000) |	-
 Number of community care or isolation units established  |	# 
 Number of admissions per care centre or isolation unit |	# 
 	
-
+</div> 
 <!-- end ## Epidemic characteristics and progression	 -->
 
 ## Red Cross/Crescent activities - select those that are applicable
@@ -125,4 +155,4 @@ Knowledge of target population on recommended prevention and control behaviours 
 
 # Impact on other sectors/program areas 
 
-Dependant on the infectious agent and factors and context of the underlying population and environment.
+Dependent on the infectious agent and factors and context of the underlying population and environment.

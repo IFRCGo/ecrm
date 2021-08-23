@@ -90,7 +90,7 @@
   </div>
 </div>
   
-<div id="diseases" class="row">
+<div id="diseases" class="row row-cols-2 row-cols-md-3 row-cols-lg-4 g-4">
   {% assign diseases = site.collections | where: "label", "disease" | first %}
   {% for disease in diseases.docs %}
     {% if disease.lang == page.lang %}

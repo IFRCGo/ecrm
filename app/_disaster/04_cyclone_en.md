@@ -4,7 +4,7 @@
 layout: page
 identifier: 4
 lang: en
-disease: [2,3]
+disease: [1,7,15,8,14,4,9,12,16,24,6,5,22,3]
 img: cyclone.jpg
 slug: "Cyclone / Hurricane / Typhoon"
 permalink: "disaster/cyclone-hurricane-typhoon/"

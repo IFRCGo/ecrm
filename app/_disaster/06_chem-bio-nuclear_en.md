@@ -4,7 +4,7 @@
 layout: page
 identifier: 6
 lang: en
-disease: [2,3]
+disease: [1,9,7,12,16,24,6,5,22,3]
 img: chem-bio-nuclear.jpg
 slug: Chemical, biological, radiological and nuclear insecurity
 permalink: "disaster/chem-bio-nuclear/"

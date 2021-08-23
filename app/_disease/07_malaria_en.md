@@ -130,8 +130,6 @@ Dengue fever, Zika virus, Chikungunya, Pneumonia, Influenza, Trypanosomiasis and
 - Rapid diagnostic tests
 - Nucleic acid amplification-based diagnostics.
 
-
-
 ## Clinical management (vaccine or treatment)
 
 - _Artemisinin_-based combination therapies (ACTs) for the treatment of uncomplicated Malaria caused by the _P. falciparum_ parasite.
@@ -205,8 +203,6 @@ Households visited by volunteers (door-to-door visits) | # or %
 People who attended group session held by volunteers | # 
 Radio spots/SMS messages/television spots broadcast | # 
 Respondents that correctly recall messages on symptoms/transmission/prevention/case definition for referral | % 
-
-
 
 # Impact on other sectors/program areas 
 

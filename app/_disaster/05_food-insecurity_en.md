@@ -4,7 +4,7 @@
 layout: page
 identifier: 5
 lang: en
-disease: [2,3]
+disease: [1,7,9,12,16,6,24,5,22,3]
 img: drought.jpeg
 slug: Food insecurity / Drought
 permalink: "disaster/food-insecurity-drought/"

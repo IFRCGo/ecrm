@@ -4,7 +4,7 @@
 layout: page
 identifier: 3
 lang: en
-disease: [1]
+disease: [1,7,8,4,9,12,16,24,5,22,6,3]
 img: tsunami.jpeg
 slug: Tsunami
 permalink: "disaster/tsunami/"

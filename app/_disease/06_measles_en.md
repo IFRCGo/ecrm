@@ -5,7 +5,7 @@ layout: page
 identifier: 6
 lang: en
 
-img: disease-example-2.jpg
+img: disease-example-1.jpeg
 slug: Measles
 permalink: "disease/measles/"
 ---
